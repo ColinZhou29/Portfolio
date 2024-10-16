@@ -2,7 +2,8 @@
 ## by Colin Zhou
 **Date last Updated: 10/16/2024**
 
-![High-Frequency Trading Predictive Model: Disproving the Random Walk Hypothesis]([https://optiver.com/insights/buy-side-european-cash-equity-trading-trends/](https://optiver.com/wp-content/uploads/2023/11/AdobeStock_604288309-1536x819.jpeg))
+![High-Frequency Trading Predictive Model: Disproving the Random Walk Hypothesis](https://github.com/ColinZhou29/Portfolio/issues/1#issue-2592779865)
+
 
 ## Summary of Project
 This project challenges the traditional Random Walk Hypothesis in financial markets by constructing a predictive model based on high-frequency trading data. Through advanced feature engineering, we develop a linear regression model aimed at predicting price movements in high-frequency trading environments. The model's purpose is to demonstrate that market prices can exhibit predictable patterns, opposing the widely accepted belief that price movements are random. We focus on exploring the potential for quantitative trading strategies to outperform market benchmarks by leveraging subtle but significant patterns in trading data.
