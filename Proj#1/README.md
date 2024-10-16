@@ -6,7 +6,7 @@
 
 
 ## Summary of Project
-This project challenges the traditional Random Walk Hypothesis in financial markets by constructing a predictive model based on high-frequency trading data. Through advanced feature engineering, we develop a linear regression model aimed at predicting price movements in high-frequency trading environments. The model's purpose is to demonstrate that market prices can exhibit predictable patterns, opposing the widely accepted belief that price movements are random. We focus on exploring the potential for quantitative trading strategies to outperform market benchmarks by leveraging subtle but significant patterns in trading data.
+This project challenges the traditional Random Walk Hypothesis in financial markets by constructing a predictive model based on high-frequency trading data. Through advanced feature engineering, I develop a linear regression model aimed at predicting price movements in high-frequency trading environments. The model's purpose is to demonstrate that market prices can exhibit predictable patterns, opposing the widely accepted belief that price movements are random. I focus on exploring the potential for quantitative trading strategies to outperform market benchmarks by leveraging subtle but significant patterns in trading data.
 
 ## Objectives:
 1. **Disprove the Random Walk Hypothesis**: By constructing a predictive model, this project aims to showcase that high-frequency trading data may contain predictable price patterns, contradicting the randomness suggested by traditional financial theories.
