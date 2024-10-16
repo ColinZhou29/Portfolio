@@ -1,4 +1,4 @@
-# **High-Frequency Trading Predictive Model: Disproving the Random Walk Hypothesis**
+# **High-Frequency Trading Predictive Model - Data Analysis and Machine Learning**
 ## by Colin Zhou
 **Date last Updated: 10/16/2024**
 
