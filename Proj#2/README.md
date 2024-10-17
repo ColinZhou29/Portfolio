@@ -21,3 +21,7 @@ Packages used:
 * Sklearn
 * Keras
 ~~~~~
+
+## Dataset
+If you are interested in downloading the dataset, please [click here](https://drive.google.com/drive/folders/12E-J4r6q5N5jCrBEgDocXN4_02EeX3S9?usp=drive_link).
+
