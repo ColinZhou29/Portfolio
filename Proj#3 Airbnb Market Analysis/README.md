@@ -27,10 +27,11 @@ Identify Top Hosts and High-Performing Listings: Recognize hosts with the most r
 4. **Support Strategic Decision-Making**: Provide data-driven insights to inform property owners, investors, and policymakers in understanding trends and opportunities in the short-term rental market.
 
 ## Files:
-Dataset: [https://www.kaggle.com/datasets/samarth1337/airbnb-2021-listings-dataset?select=Combined+Listing+Data+Summary.csv
+- Dataset: [https://www.kaggle.com/datasets/samarth1337/airbnb-2021-listings-dataset?select=Combined+Listing+Data+Summary.csv
 ](https://www.kaggle.com/datasets/samarth1337/airbnb-2021-listings-dataset?select=Combined+Listing+Data+Summary.csv
 ).
-PowerBI Dashboard: [https://github.com/ColinZhou29/Portfolio/blob/main/Proj%233%20Airbnb%20Market%20Analysis/Airbnb%20LA.pbix
+
+- PowerBI Dashboard: [https://github.com/ColinZhou29/Portfolio/blob/main/Proj%233%20Airbnb%20Market%20Analysis/Airbnb%20LA.pbix
 ](https://github.com/ColinZhou29/Portfolio/blob/main/Proj%233%20Airbnb%20Market%20Analysis/Airbnb%20LA.pbix
 ).
 
