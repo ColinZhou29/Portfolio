@@ -30,8 +30,8 @@ Identify Top Hosts and High-Performing Listings: Recognize hosts with the most r
 Dataset: [https://www.kaggle.com/datasets/samarth1337/airbnb-2021-listings-dataset?select=Combined+Listing+Data+Summary.csv
 ](https://www.kaggle.com/datasets/samarth1337/airbnb-2021-listings-dataset?select=Combined+Listing+Data+Summary.csv
 ).
-PowerBI Dashboard: [https://github.com/ColinZhou29/Portfolio/blob/main/Proj%233/Airbnb%20LA.pbix
-](https://github.com/ColinZhou29/Portfolio/blob/main/Proj%233/Airbnb%20LA.pbix
+PowerBI Dashboard: [https://github.com/ColinZhou29/Portfolio/blob/main/Proj%233%20Airbnb%20Market%20Analysis/Airbnb%20LA.pbix
+](https://github.com/ColinZhou29/Portfolio/blob/main/Proj%233%20Airbnb%20Market%20Analysis/Airbnb%20LA.pbix
 ).
 
 ## Additional Enhancements:
