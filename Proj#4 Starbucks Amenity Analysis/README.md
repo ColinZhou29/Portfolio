@@ -28,7 +28,7 @@ The data was sourced from [Kaggle](https://www.kaggle.com/datasets/mexwell/starb
 ![barchart](https://private-user-images.githubusercontent.com/125409693/377967800-ec4bf5cd-5850-4b53-b21c-4b1a88a78f4c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNzQ4NTMsIm5iZiI6MTcyOTI3NDU1MywicGF0aCI6Ii8xMjU0MDk2OTMvMzc3OTY3ODAwLWVjNGJmNWNkLTU4NTAtNGI1My1iMjFjLTRiMWE4OGE3OGY0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOFQxODAyMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NmFhMTMyZmFiODM3YmRjYjMxNmMxNWZlNzdhMDJmYTIzZTllYmY0N2ZmMTFiMTcxYTFmNzk4YzM5Mzk4MWM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8glTS4yEVBw6e1TWxOojX0I9JI81m_2cmkbGW-k5TlQ)
 
 ## Linear Regression Models
-**Drive Thru - Linear Probability Model**
+### Drive Thru - Linear Probability Model
 
 Regression Equation: 
 ~~~~~
@@ -38,7 +38,7 @@ Drive Thru =  0.16 + -0.13 * income_med + -0.25 * income_high + (-9.2*10^-8) * X
 
 Keeping population and other amenities like digital rewards and Fizzio handcrafted sodas availability constant, there is a 24% decrease in the availability of drive-thrus when going from a low-income bracket to a high-income bracket Starbucks location. Similarly, there is a 13% drop in drive-thru availability when going from a low to medium-income Starbucks location.
 
-**Free WI-FI - Linear Probability Model**
+### Free WI-FI - Linear Probability Model
 
 Regression Equation: 
 ~~~~~
@@ -48,7 +48,7 @@ Free Wi-FI=  0.29 + 0.03 * income_med + 0.03 * income_high + -0.04 * fizzio_hand
 
 Keeping population and other amenities like digital rewards and Fizzio handcrafted sodas constant, there is no significant difference in the availability of free wifi in stores in areas across income brackets. This indicates that when providing free-wifi in a store, income is not a deciding factor.
 
-**Fizzio Handcrafted Sodas - Linear Probability Model**
+### Fizzio Handcrafted Sodas - Linear Probability Model
 
 Regression Equation: 
 ~~~~~
@@ -58,7 +58,7 @@ Fizzio Handcrafted Sodas =  0.24 + -0.04 * income_med + -0.12 * income_high + (5
 
 Keeping population and other amenities like digital rewards, drive-thrus, and free wifi availability constant, there is a 12% decrease in the availability of Fizzio handcrafted sodas when going from a low-income bracket to a high-income bracket Starbucks location. At a significance level of 0.1, there is also a 4% drop in the availability of these sodas when going from a low-income to medium-income bracket location.
 
-**Digital Rewards - Linear Probability Model**
+### Digital Rewards - Linear Probability Model
 
 Regression Equation: 
 ~~~~~
