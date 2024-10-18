@@ -16,6 +16,7 @@ The study utilizes the following data:
 - **Starbucks store-level data**: Availability of specific amenities.
 - **City-level data**: Population and average income statistics.
 - **County-level data**: Broader demographic information.
+
 The data was sourced from [Kaggle](https://www.kaggle.com/datasets/mexwell/starbucks-worldwide-and-california) and segmented based on city-level income into three brackets: Low, Medium, and High.
 
 ## Research Methodology
