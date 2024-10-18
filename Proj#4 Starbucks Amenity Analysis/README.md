@@ -41,9 +41,7 @@ From the analysis:
 - **Generalizability**: The study is limited to California, which may reduce the generalizability of the findings to other regions.
 
 ## Conclusion
-The study suggests that Starbucks strategically adjusts its amenities based on local income demographics. While some amenities, like Free WiFi, are universally offered, others, like Drive-Thrus and Digital Rewards, are more selectively provided depending on the economic profile of the store's location.
-
-Expanding the scope to include multiple regions and additional variables could provide deeper insights into Starbucks' strategies for tailoring its services to different markets.
+The analysis suggests that Starbucks strategically customizes its amenity offerings, such as drive-thrus and digital rewards, based on the local income demographics, underscoring its adaptability to market demands. While universal amenities like free WiFi suggest a standard level of service, the variation in offerings like Fizzio sodas indicates a tailored approach to local tastes. For a more holistic view, expanding the scope of variables and including multiple regions could provide deeper insights into Starbucks' amenity distribution strategies.
 
 ## Future Directions
 - **Improved Models**: Using logistic regression models may better capture the complexity of consumer behavior.
