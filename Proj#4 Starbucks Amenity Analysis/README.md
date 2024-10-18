@@ -30,13 +30,10 @@ The data was sourced from [Kaggle](https://www.kaggle.com/datasets/mexwell/starb
 ## Linear Regression Models
 **Drive Thru - Linear Probability Model**
 
-
-### Regression Equation: Drive Thru
-
-$$\text{Drive Thru} = 0.16 - 0.13 \times \text{income\_med} - 0.25 \times \text{income\_high} - 9.2 \times 10^{-8} \times \text{X2010\_population} + 0.26 \times \text{digital\_rewards} + 0.11 \times \text{fizzio\_handcrafted\_sodas}$$
-
-Regression Equation: Drive Thru =  0.16 + -0.13 * income_med + -0.25 * income_high + (-9.2*10^-8) * X2010_population + 0.26 * digital_rewards + 0.11 * fizzio_handcrafted_sodas
-
+Regression Equation: 
+~~~~~
+Drive Thru =  0.16 + -0.13 * income_med + -0.25 * income_high + (-9.2*10^-8) * X2010_population + 0.26 * digital_rewards + 0.11 * fizzio_handcrafted_sodas
+~~~~~
 ![Drive Thru](https://private-user-images.githubusercontent.com/125409693/377969593-248c5e20-098b-4afe-a823-2cc05230b77d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNzUyNzUsIm5iZiI6MTcyOTI3NDk3NSwicGF0aCI6Ii8xMjU0MDk2OTMvMzc3OTY5NTkzLTI0OGM1ZTIwLTA5OGItNGFmZS1hODIzLTJjYzA1MjMwYjc3ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOFQxODA5MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMWQ2NTY0NDUxZTcxYjlmODY2OTI2NjVlNWY5YmI4YmQ3NjQxZDg4YjM3YzczN2JkZjEwNzRiMzc2MTk5ODBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.d5IRb8WToSZSCrr4NrNFCsAqx7xDCXMOfesh0hm4MH4)
 
 Keeping population and other amenities like digital rewards and Fizzio handcrafted sodas availability constant, there is a 24% decrease in the availability of drive-thrus when going from a low-income bracket to a high-income bracket Starbucks location. Similarly, there is a 13% drop in drive-thru availability when going from a low to medium-income Starbucks location.
