@@ -25,6 +25,9 @@ The data was sourced from [Kaggle](https://www.kaggle.com/datasets/mexwell/starb
 3. **Linear Probability Models**: Assessing the impact of income on amenity provision while controlling for population size and other variables.
 4. **Statistical Validation**: The study’s findings were validated with appropriate statistical measures to ensure reliability.
 
+![barchart](https://private-user-images.githubusercontent.com/125409693/377967800-ec4bf5cd-5850-4b53-b21c-4b1a88a78f4c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNzQ4NTMsIm5iZiI6MTcyOTI3NDU1MywicGF0aCI6Ii8xMjU0MDk2OTMvMzc3OTY3ODAwLWVjNGJmNWNkLTU4NTAtNGI1My1iMjFjLTRiMWE4OGE3OGY0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOFQxODAyMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NmFhMTMyZmFiODM3YmRjYjMxNmMxNWZlNzdhMDJmYTIzZTllYmY0N2ZmMTFiMTcxYTFmNzk4YzM5Mzk4MWM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8glTS4yEVBw6e1TWxOojX0I9JI81m_2cmkbGW-k5TlQ)
+
+
 ## Key Findings
 - **Drive-Thrus**: There is a 24% decrease in drive-thru availability when moving from low-income to high-income areas, and a 13% decrease when moving from low to medium-income areas.
 - **Free WiFi**: No significant difference in availability across income brackets.
