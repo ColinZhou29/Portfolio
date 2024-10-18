@@ -1,5 +1,48 @@
-# DSO-510
+# Starbucks Amenities and Income Demographics in California
+## by Colin Zhou
+![Starbucks Amenities and Income Demographics in California](https://private-user-images.githubusercontent.com/125409693/377962332-6f326163-f099-4309-af0c-c9e79a51f413.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNzM5MjMsIm5iZiI6MTcyOTI3MzYyMywicGF0aCI6Ii8xMjU0MDk2OTMvMzc3OTYyMzMyLTZmMzI2MTYzLWYwOTktNDMwOS1hZjBjLWM5ZTc5YTUxZjQxMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOFQxNzQ3MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNmQyNDg4YjllNzgwYWI0YTFmNDhkMWQ2MjE5ZjNkYjk0ZTVmYTI1M2VkMjgzYTdhYzM0ODE4MzcxNjg4NWUwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AOgswB_xABriqfqb-2aRYVa5imKhBXKAP6SiP8LI-1I)
+**Date last Updated: 10/18/2024**
+This project investigates whether Starbucks' amenity offerings, such as Free WiFi, Fizzio Handcrafted Sodas, Drive-Thrus, and Digital Rewards, are influenced by the surrounding income demographics in California. The analysis explores whether these amenities are tailored to the income levels of each store’s clientele.
 
-### Problem Statement:
 
-In California's diverse demographic and geographic landscape, how does Starbucks strategically optimize its amenity offerings? Specifically, is there a correlation between certain key amenities, like Wi-Fi and drive-thru services, and distinct demographic or geographic profiles? Through this exploration, we aim to uncover patterns in Starbucks' amenity deployment that reveal insights into its regional customization strategy.
+## Problem Statement:
+
+The study aims to determine if Starbucks strategically adjusts its amenity offerings based on the income demographics of the areas where its stores are located. By analyzing different amenities across various income brackets, this research assesses how Starbucks customizes its customer experience.
+
+## Data Sources
+The study utilizes the following data:
+
+- **Starbucks store-level data**: Availability of specific amenities.
+- **City-level data**: Population and average income statistics.
+- **County-level data**: Broader demographic information.
+The data was sourced from [Kaggle](https://www.kaggle.com/datasets/mexwell/starbucks-worldwide-and-california) and segmented based on city-level income into three brackets: Low, Medium, and High.
+
+## Research Methodology
+1. **Data Preprocessing**: Handling missing values and encoding categorical variables.
+2. **Exploratory Data Analysis (EDA)**: Analyzing the distribution of amenities across income brackets using visualizations.
+3. **Linear Probability Models**: Assessing the impact of income on amenity provision while controlling for population size and other variables.
+4. **Statistical Validation**: The study’s findings were validated with appropriate statistical measures to ensure reliability.
+
+## Key Findings
+- **Drive-Thrus**: There is a 24% decrease in drive-thru availability when moving from low-income to high-income areas, and a 13% decrease when moving from low to medium-income areas.
+- **Free WiFi**: No significant difference in availability across income brackets.
+- **Fizzio Handcrafted Sodas**: A 12% decrease in availability in high-income areas compared to low-income areas, and a 4% decrease when moving from low to medium-income areas.
+- **Digital Rewards**: A 7% increase in availability in high-income areas compared to low-income areas.
+
+## Descriptive Statistics
+From the analysis:
+- **La Boulange (Baked Goods)** is a common amenity across all income brackets.
+- Higher-income areas tend to have more amenities that align with digital engagement, such as Digital Rewards.
+
+## Limitations
+- **Model Accuracy**: The low R-squared of the model suggests that additional factors influencing Starbucks' amenity offerings were not captured in this study.
+- **Generalizability**: The study is limited to California, which may reduce the generalizability of the findings to other regions.
+
+## Conclusion
+The study suggests that Starbucks strategically adjusts its amenities based on local income demographics. While some amenities, like Free WiFi, are universally offered, others, like Drive-Thrus and Digital Rewards, are more selectively provided depending on the economic profile of the store's location.
+
+Expanding the scope to include multiple regions and additional variables could provide deeper insights into Starbucks' strategies for tailoring its services to different markets.
+
+## Future Directions
+- **Improved Models**: Using logistic regression models may better capture the complexity of consumer behavior.
+- **Expanded Analysis**: Including additional regions beyond California would provide a broader understanding of Starbucks' market strategies.
