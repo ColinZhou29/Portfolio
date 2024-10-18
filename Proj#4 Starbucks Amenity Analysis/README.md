@@ -31,11 +31,6 @@ The data was sourced from [Kaggle](https://www.kaggle.com/datasets/mexwell/starb
 - **Fizzio Handcrafted Sodas**: A 12% decrease in availability in high-income areas compared to low-income areas, and a 4% decrease when moving from low to medium-income areas.
 - **Digital Rewards**: A 7% increase in availability in high-income areas compared to low-income areas.
 
-## Descriptive Statistics
-From the analysis:
-- **La Boulange (Baked Goods)** is a common amenity across all income brackets.
-- Higher-income areas tend to have more amenities that align with digital engagement, such as Digital Rewards.
-
 ## Limitations
 - **Model Accuracy**: The low R-squared of the model suggests that additional factors influencing Starbucks' amenity offerings were not captured in this study.
 - **Generalizability**: The study is limited to California, which may reduce the generalizability of the findings to other regions.
