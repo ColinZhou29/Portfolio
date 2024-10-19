@@ -5,6 +5,18 @@
 
 This project demonstrates a comprehensive HR Analytics Dashboard using Tableau to analyze employee attrition and other key human resources (HR) metrics. The dashboard is designed to help HR departments gain insights into workforce demographics, job satisfaction, and attrition trends to inform data-driven decision-making.
 
+**Tools**: Tableau Desktop, Excel (initial cleaning), and PowerPoint.
+
+**Skills**: Calculated fields, conditional aggregation, attrition analysis, date functions, filters, sets, charts building, dashboard design, research, publishing, and presentation.
+
+**Link**: [HR Analytics Dashboard](https://public.tableau.com/app/profile/hao.zhou7931/viz/HRAnalyticsDashboard_17293804164500/HRAnalyticsDashboard?publish=yes)
+
+## Dataset:
+**hrdata.csv** - HR Analytics data containing employee demographics, job satisfaction, and attrition from various departments.
+
+- **Fields**: 18
+- **Rows**: 1,470
+
 ## Key Features
 ### 1. Attrition Analysis:
 
@@ -32,17 +44,6 @@ This project demonstrates a comprehensive HR Analytics Dashboard using Tableau t
 - **Workforce Planning**: Plan workforce needs based on demographic data such as age and department distribution.
 - **Employee Engagement**: Improve job satisfaction by understanding which job roles and departments face the most dissatisfaction and attrition.
 
-## Data Insights
-### Attrition by Gender:
-- Female employees face a higher attrition rate (38.82%) compared to males (56.12%).
-- Detailed attrition analysis across various age groups for both genders.
-
-### Job Role Insights:
-
--High attrition rates are observed in sales and research-related roles, emphasizing the need for tailored retention strategies.
-
-### Age and Attrition:
-- Younger employees under 25 have the highest attrition rate (29.11%), suggesting a potential focus area for development and retention strategies for early-career employees.
 
 ## Conclusion
 The HR Analytics Dashboard is a powerful tool for HR departments looking to make data-driven decisions. By analyzing employee attrition, demographics, and job satisfaction, organizations can better understand their workforce dynamics and take proactive steps to improve employee retention and satisfaction.
