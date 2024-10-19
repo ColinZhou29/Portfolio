@@ -33,17 +33,18 @@ This project demonstrates a comprehensive HR Analytics Dashboard using Tableau t
 - **Employee Engagement**: Improve job satisfaction by understanding which job roles and departments face the most dissatisfaction and attrition.
 
 ## Data Insights
-### -Attrition by Gender:
+### Attrition by Gender:
 - Female employees face a higher attrition rate (38.82%) compared to males (56.12%).
 - Detailed attrition analysis across various age groups for both genders.
 
-### -Job Role Insights:
+### Job Role Insights:
 
-High attrition rates are observed in sales and research-related roles, emphasizing the need for tailored retention strategies.
-Age and Attrition:
+-High attrition rates are observed in sales and research-related roles, emphasizing the need for tailored retention strategies.
 
-Younger employees under 25 have the highest attrition rate (29.11%), suggesting a potential focus area for development and retention strategies for early-career employees.
-Conclusion
+### Age and Attrition:
+- Younger employees under 25 have the highest attrition rate (29.11%), suggesting a potential focus area for development and retention strategies for early-career employees.
+
+## Conclusion
 The HR Analytics Dashboard is a powerful tool for HR departments looking to make data-driven decisions. By analyzing employee attrition, demographics, and job satisfaction, organizations can better understand their workforce dynamics and take proactive steps to improve employee retention and satisfaction.
 
 
