@@ -5,9 +5,9 @@
 
 This project demonstrates a comprehensive HR Analytics Dashboard using Tableau to analyze employee attrition and other key human resources (HR) metrics. The dashboard is designed to help HR departments gain insights into workforce demographics, job satisfaction, and attrition trends to inform data-driven decision-making.
 
-**Tools**: Tableau Desktop, Excel (initial cleaning), and PowerPoint.
+**Tools**: Tableau Desktop, Excel (initial cleaning).
 
-**Skills**: Calculated fields, conditional aggregation, attrition analysis, date functions, filters, sets, charts building, dashboard design, research, publishing, and presentation.
+**Skills**: Calculated fields, conditional aggregation, attrition analysis, date functions, filters, sets, charts building, dashboard design, research, publishing.
 
 **Link**: [HR Analytics Dashboard](https://public.tableau.com/app/profile/hao.zhou7931/viz/HRAnalyticsDashboard_17293804164500/HRAnalyticsDashboard?publish=yes)
 
