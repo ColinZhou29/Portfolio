@@ -8,9 +8,13 @@ This project focuses on analyzing pizza sales data using **PostgreSQL** for quer
 
 **Tools & Skills Used:**: 
 - **PostgreSQL**: For querying and extracting sales data from the database.
-- **Excel**: For data analysis, processing, and building an interactive dashboard.
+- **Excel**: For data analysis, processing, and building a dashboard.
 - **Data Analysis**: Analysis of sales trends, product performance, and customer behavior.
 - **Visualization**: Visualized sales data with graphs, charts, and tables for better decision-making.
+
+## Files
+- [SQL Code](https://github.com/ColinZhou29/Portfolio/blob/main/Proj%236%20Pizza%20Sales%20Analysis/pizza_sales.sql)
+- [Dashoard and Data](https://github.com/ColinZhou29/Portfolio/blob/main/Proj%236%20Pizza%20Sales%20Analysis/pizza_dashboard.xlsx)
 
 ## Findings:
 ### Peak Sales Periods:
