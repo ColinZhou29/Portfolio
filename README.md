@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 ## Introduction
-Hello:smile:!
+Hello😀!
 
 Welcome to my portfolio!
 
