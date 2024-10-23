@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef17718e-87b7-4972-a953-f4890c93b591)# Starbucks Amenities and Income Demographics in California
+# Starbucks Amenities and Income Demographics in California
 ## by Colin Zhou
 **Date last Updated: 10/18/2024**
 ![Starbucks Amenities and Income Demographics in California](https://github.com/ColinZhou29/images/blob/main/github%20image/starbucks.jpg?raw=true)
