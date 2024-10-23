@@ -13,7 +13,7 @@ I hope my work inspires meaningful discussions and collaborations, and I look fo
 
 ## Table of Contents
 
-* [About](https://github.com/ColinZhou29/Portfolio/edit/main/README.md)
+* [About](https://github.com/ColinZhou29/Portfolio/blob/main/README.md)
   
 * [Portfolio Projects](https://github.com/ColinZhou29/Portfolio)
   
