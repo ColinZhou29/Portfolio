@@ -1,7 +1,7 @@
-# Starbucks Amenities and Income Demographics in California
+![image](https://github.com/user-attachments/assets/ef17718e-87b7-4972-a953-f4890c93b591)# Starbucks Amenities and Income Demographics in California
 ## by Colin Zhou
 **Date last Updated: 10/18/2024**
-![Starbucks Amenities and Income Demographics in California](https://private-user-images.githubusercontent.com/125409693/377962332-6f326163-f099-4309-af0c-c9e79a51f413.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNzM5MjMsIm5iZiI6MTcyOTI3MzYyMywicGF0aCI6Ii8xMjU0MDk2OTMvMzc3OTYyMzMyLTZmMzI2MTYzLWYwOTktNDMwOS1hZjBjLWM5ZTc5YTUxZjQxMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOFQxNzQ3MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNmQyNDg4YjllNzgwYWI0YTFmNDhkMWQ2MjE5ZjNkYjk0ZTVmYTI1M2VkMjgzYTdhYzM0ODE4MzcxNjg4NWUwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AOgswB_xABriqfqb-2aRYVa5imKhBXKAP6SiP8LI-1I)
+![Starbucks Amenities and Income Demographics in California](https://github.com/ColinZhou29/images/blob/main/github%20image/starbucks.jpg?raw=true)
 
 This project investigates whether Starbucks' amenity offerings, such as Free WiFi, Fizzio Handcrafted Sodas, Drive-Thrus, and Digital Rewards, are influenced by the surrounding income demographics in California. The analysis explores whether these amenities are tailored to the income levels of each store’s clientele.
 
@@ -25,7 +25,7 @@ The data was sourced from [Kaggle](https://www.kaggle.com/datasets/mexwell/starb
 3. **Linear Probability Models**: Assessing the impact of income on amenity provision while controlling for population size and other variables.
 4. **Statistical Validation**: The study’s findings were validated with appropriate statistical measures to ensure reliability.
 
-![barchart](https://private-user-images.githubusercontent.com/125409693/377967800-ec4bf5cd-5850-4b53-b21c-4b1a88a78f4c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNzQ4NTMsIm5iZiI6MTcyOTI3NDU1MywicGF0aCI6Ii8xMjU0MDk2OTMvMzc3OTY3ODAwLWVjNGJmNWNkLTU4NTAtNGI1My1iMjFjLTRiMWE4OGE3OGY0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOFQxODAyMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NmFhMTMyZmFiODM3YmRjYjMxNmMxNWZlNzdhMDJmYTIzZTllYmY0N2ZmMTFiMTcxYTFmNzk4YzM5Mzk4MWM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8glTS4yEVBw6e1TWxOojX0I9JI81m_2cmkbGW-k5TlQ)
+![barchart](https://github.com/ColinZhou29/images/blob/main/github%20image/amenity.png?raw=true)
 
 ## Linear Regression Models
 ### Drive Thru - Linear Probability Model
@@ -34,7 +34,7 @@ Regression Equation:
 ~~~~~
 Drive Thru =  0.16 + -0.13 * income_med + -0.25 * income_high + (-9.2*10^-8) * X2010_population + 0.26 * digital_rewards + 0.11 * fizzio_handcrafted_sodas
 ~~~~~
-![Drive Thru](https://private-user-images.githubusercontent.com/125409693/377969593-248c5e20-098b-4afe-a823-2cc05230b77d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNzUyNzUsIm5iZiI6MTcyOTI3NDk3NSwicGF0aCI6Ii8xMjU0MDk2OTMvMzc3OTY5NTkzLTI0OGM1ZTIwLTA5OGItNGFmZS1hODIzLTJjYzA1MjMwYjc3ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOFQxODA5MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMWQ2NTY0NDUxZTcxYjlmODY2OTI2NjVlNWY5YmI4YmQ3NjQxZDg4YjM3YzczN2JkZjEwNzRiMzc2MTk5ODBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.d5IRb8WToSZSCrr4NrNFCsAqx7xDCXMOfesh0hm4MH4)
+![Drive Thru](https://github.com/ColinZhou29/images/blob/main/github%20image/drive%20thru.png?raw=true)
 
 Keeping population and other amenities like digital rewards and Fizzio handcrafted sodas availability constant, there is a 24% decrease in the availability of drive-thrus when going from a low-income bracket to a high-income bracket Starbucks location. Similarly, there is a 13% drop in drive-thru availability when going from a low to medium-income Starbucks location.
 
@@ -44,7 +44,7 @@ Regression Equation:
 ~~~~~
 Free Wi-FI=  0.29 + 0.03 * income_med + 0.03 * income_high + -0.04 * fizzio_handcrafted_sodas + 0.48 * digital_rewards
 ~~~~~
-![Free WI-FI](https://private-user-images.githubusercontent.com/125409693/377969652-833d514e-214f-4de2-a3a3-625e3f31d832.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNzUyNzUsIm5iZiI6MTcyOTI3NDk3NSwicGF0aCI6Ii8xMjU0MDk2OTMvMzc3OTY5NjUyLTgzM2Q1MTRlLTIxNGYtNGRlMi1hM2EzLTYyNWUzZjMxZDgzMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOFQxODA5MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjMyZjU4MDExYzAyYjk2ZTJhMGJjNWUzNTcwOGY4NDEwMWI1ZGU5ZDViNDlkOWZlMDhiNGFjZjg1ZTMyOTVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5WQvWMB01OQ3t7dlHErHK9VI88-KhRECnbN4E4xIYio)
+![Free WI-FI](https://github.com/ColinZhou29/images/blob/main/github%20image/wifi.png?raw=true)
 
 Keeping population and other amenities like digital rewards and Fizzio handcrafted sodas constant, there is no significant difference in the availability of free wifi in stores in areas across income brackets. This indicates that when providing free-wifi in a store, income is not a deciding factor.
 
@@ -54,7 +54,7 @@ Regression Equation:
 ~~~~~
 Fizzio Handcrafted Sodas =  0.24 + -0.04 * income_med + -0.12 * income_high + (5.79*10^-8) * X2010_population + 0.16 * drive_thru + -0.04 * free_wi_fi + 0.38 * digital_rewards
 ~~~~~
-![Fizzio Handcrafted Sodas](https://private-user-images.githubusercontent.com/125409693/377969684-148c8d6f-eea2-416f-8da4-1cc3e28e79a7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNzUyNzUsIm5iZiI6MTcyOTI3NDk3NSwicGF0aCI6Ii8xMjU0MDk2OTMvMzc3OTY5Njg0LTE0OGM4ZDZmLWVlYTItNDE2Zi04ZGE0LTFjYzNlMjhlNzlhNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOFQxODA5MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YzdmN2E2Y2RlN2E5ZWIzNWI5MTMyMDYxNDY3NzFiNzQwNmU1ODdhYzRmODY0NzA4YWVmYTU5MjZkNjMxYWJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IKpBMUzA8t-dtCg-eSR-VLanlPqxOsjSP6bRaYL0Ix8)
+![Fizzio Handcrafted Sodas](https://github.com/ColinZhou29/images/blob/main/github%20image/fizzio.png?raw=true)
 
 Keeping population and other amenities like digital rewards, drive-thrus, and free wifi availability constant, there is a 12% decrease in the availability of Fizzio handcrafted sodas when going from a low-income bracket to a high-income bracket Starbucks location. At a significance level of 0.1, there is also a 4% drop in the availability of these sodas when going from a low-income to medium-income bracket location.
 
@@ -64,7 +64,7 @@ Regression Equation:
 ~~~~~
 Digital Rewards =  0.28  + 0.07 * income_high + (1.47*10^-8)* X2010_population + 0.24 * drive_thru + 0.26* fizzio_handcrafted_sodas + 0.35 * free_wi_fi
 ~~~~~
-![Digital Rewards](https://private-user-images.githubusercontent.com/125409693/377970475-5c333f74-9621-4a54-973f-8e4881e944bf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNzU0NTcsIm5iZiI6MTcyOTI3NTE1NywicGF0aCI6Ii8xMjU0MDk2OTMvMzc3OTcwNDc1LTVjMzMzZjc0LTk2MjEtNGE1NC05NzNmLThlNDg4MWU5NDRiZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOFQxODEyMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lN2IwZjEwMTY0MDZkMzMwYjU0M2FjYzVmMTU0NjJhODIwYWY0NWUxNDMxMmFlNTRkOGI0YjMxMzQyMDFmMThjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.DYwrP25LXxHNzKaBk9AWgI8EBSnMZLyCRQ01nBe0kV4)
+![Digital Rewards](https://github.com/ColinZhou29/images/blob/main/github%20image/digital%20rewards.png?raw=true)
 
 Keeping population and other amenities like drive-thrus, Fizzio handcrafted sodas, and free wifi availability constant, there is a 7% increase in the availability of digital rewards when going from a low-income bracket to a high-income bracket Starbucks location.
 
