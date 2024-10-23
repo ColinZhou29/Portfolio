@@ -1,7 +1,7 @@
 # HR Analytics Dashboard by Tableau
 ## by Colin Zhou
 **Date last Updated: 10/19/2024**
-![HR Analytics Dashboard by Tableau](https://private-user-images.githubusercontent.com/125409693/378131828-613aaf84-ca25-4d83-ae65-10a4d9d9894a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkzODEzMzMsIm5iZiI6MTcyOTM4MTAzMywicGF0aCI6Ii8xMjU0MDk2OTMvMzc4MTMxODI4LTYxM2FhZjg0LWNhMjUtNGQ4My1hZTY1LTEwYTRkOWQ5ODk0YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxOVQyMzM3MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iODIyYmJkODJkZTgyNjVhYzA5Zjc5OGNkZTVjMjM1NGExOWVmNzU5NTg0NDhlNjVkYjk0OGFiMzkyYzk5ZWE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CE0iJhDvqk7EopUreeAoNPyuYkBsfKLswrV1G7fXKT8)
+![HR Analytics Dashboard by Tableau](https://github.com/ColinZhou29/images/blob/main/github%20image/tableau.png?raw=true)
 
 This project demonstrates a comprehensive HR Analytics Dashboard using Tableau to analyze employee attrition and other key human resources (HR) metrics. The dashboard is designed to help HR departments gain insights into workforce demographics, job satisfaction, and attrition trends to inform data-driven decision-making.
 
